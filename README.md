@@ -63,4 +63,8 @@ Para más información sobre mi perfil y otros proyectos, o si deseas conectar, 
 * [**Mi Perfil Principal de GitHub**](https://github.com/tu_usuario_github)
 * [**Mi Perfil de LinkedIn**](https://www.linkedin.com/in/octavio-landa-verde/)
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 02f43b5240f34d93e3bd6d0454b09c20fa5cff9c
