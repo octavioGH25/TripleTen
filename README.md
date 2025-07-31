@@ -30,9 +30,12 @@ Cada carpeta en este repositorio corresponde a un proyecto individual. Dentro de
 
 Aquí hay un vistazo a los proyectos incluidos:
 
-* [**Proyecto A (Nombre del Siguiente Proyecto)**](link-al-siguiente-proyecto)
-    * *Descripción:* (Breve descripción de lo que hace el proyecto y qué problema resuelve).
-    * *Habilidades clave:* (Menciona las principales herramientas/conceptos utilizados).
+
+* **Proyecto Integrado: Análisis de Ventas de Videojuegos**
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/octavioGH25/TripleTen.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fproyecto6.ipynb)
+
+   * *Descripción:* Estudio de caso analítico para identificar patrones de éxito en videojuegos, preparando datos históricos de ventas, reseñas y géneros para planificar campañas publicitarias futuras. Incluye análisis de       plataformas, géneros, clasificación ESRB y pruebas de hipótesis.
+   * *Habilidades clave:* Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Limpieza y Preprocesamiento de Datos, EDA, Visualización, Pruebas de Hipótesis (T-tests).
 
 
 
