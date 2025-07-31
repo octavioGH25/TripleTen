@@ -32,12 +32,10 @@ Aquí hay un vistazo a los proyectos incluidos:
 
 
 * **Proyecto Integrado: Análisis de Ventas de Videojuegos**
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/octavioGH25/TripleTen.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fproyecto6.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/octavioGH25/TripleTen/main?urlpath=https%3A%2F%2Fgithub.com%2FoctavioGH25%2FTripleTen%2Fblob%2Fmain%2Fproyecto_6.ipynb)
 
    * *Descripción:* Estudio de caso analítico para identificar patrones de éxito en videojuegos, preparando datos históricos de ventas, reseñas y géneros para planificar campañas publicitarias futuras. Incluye análisis de       plataformas, géneros, clasificación ESRB y pruebas de hipótesis.
    * *Habilidades clave:* Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Limpieza y Preprocesamiento de Datos, EDA, Visualización, Pruebas de Hipótesis (T-tests).
-
-
 
 ---
 
@@ -54,8 +52,4 @@ Para más información sobre mi perfil y otros proyectos, o si deseas conectar, 
 * [**Mi Perfil Principal de GitHub**](https://github.com/tu_usuario_github)
 * [**Mi Perfil de LinkedIn**](https://www.linkedin.com/in/octavio-landa-verde/)
 
-<<<<<<< HEAD
 ---
-=======
----
->>>>>>> 02f43b5240f34d93e3bd6d0454b09c20fa5cff9c
