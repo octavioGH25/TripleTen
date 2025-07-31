@@ -1,3 +1,58 @@
+# 🚀 Data Analysis Projects | Triple Ten LATAM Bootcamp
+
+Welcome to my collection of projects developed during the intensive **Data Analyst bootcamp at Triple Ten LATAM**!
+
+This repository is dedicated to showcasing my practical skills in data analysis, manipulation, visualization, and the application of techniques to solve real-world business problems, just as we addressed them in the bootcamp.
+
+---
+
+### 🛠️ **Skills and Tools Applied**
+
+Throughout these projects, I have practiced and strengthened my proficiency in:
+
+* **Programming:** Python (Pandas, NumPy, Scikit-learn).
+* **Databases:** SQL for data management and querying.
+* **Data Visualization:** Matplotlib, Seaborn.
+* **Spreadsheets:** Excel.
+* **Exploratory Data Analysis (EDA).**
+* **Data Cleaning and Preprocessing.**
+* **Descriptive and Inferential Statistics.**
+* **Data Storytelling and Insight Communication.**
+
+---
+
+### ✨ **My Projects**
+
+Each folder in this repository corresponds to an individual project. Within each folder, you will find:
+* A **Jupyter Notebook** (`.ipynb`) with the code, analysis, and results.
+* A project-specific `README.md`, detailing its objective, methodology, and conclusions.
+* The datasets used (if applicable).
+
+Here's a glimpse at the projects included:
+
+* **Integrated Project: Video Game Sales Analysis**
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/octavioGH25/TripleTen/HEAD?labpath=proyecto_6.ipynb)
+    * *Description:* An analytical case study to identify success patterns in video games, preparing historical sales data, user/critic reviews, and genres to plan future advertising campaigns. Includes analysis of platforms, genres, ESRB ratings, and hypothesis testing.
+    * *Key Skills:* Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Data Cleaning and Preprocessing, EDA, Visualization, Hypothesis Testing (T-tests).
+
+---
+
+### 🔍 **How to Explore**
+
+I invite you to explore each project folder to review the code, analyses, and detailed results. Feel free to clone the repository and experiment with the data.
+
+---
+
+### 🤝 **Let's Connect**
+
+I am always open to new opportunities and collaborations. Feel free to reach out!
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-landa-verde/)
+* [![Hotmail](https://img.shields.io/badge/email-Hotmail-blue.svg)](mailto:octaviolanda@hotmail.com)
+
+---
+---
+
 # 🚀 Proyectos de Data Analysis | Bootcamp Triple Ten LATAM
 
 ¡Bienvenido/a a mi colección de proyectos desarrollados durante el bootcamp intensivo de **Data Analyst en Triple Ten LATAM**!
@@ -45,11 +100,9 @@ Te invito a explorar cada carpeta de proyecto para revisar el código, los anál
 
 ---
 
-### ✉️ **Contacto**
+### 🤝 **Conectemos**
 
-Para más información sobre mi perfil y otros proyectos, o si deseas conectar, visita mi perfil principal de GitHub o mi LinkedIn:
+Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
 
-* [**Mi Perfil Principal de GitHub**](https://github.com/tu_usuario_github)
-* [**Mi Perfil de LinkedIn**](https://www.linkedin.com/in/octavio-landa-verde/)
-
----
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-landa-verde/)
+* [![Hotmail](https://img.shields.io/badge/email-Hotmail-blue.svg)](mailto:octaviolanda@hotmail.com)
