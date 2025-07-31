@@ -34,19 +34,7 @@ Aquí hay un vistazo a los proyectos incluidos:
     * *Descripción:* (Breve descripción de lo que hace el proyecto y qué problema resuelve).
     * *Habilidades clave:* (Menciona las principales herramientas/conceptos utilizados).
 
-* [**Proyecto B (Nombre del Proyecto)**](link-al-SEGUNDO-proyecto)
-    * *Descripción:* (Breve descripción).
-    * *Habilidades clave:* (Menciona las principales herramientas/conceptos utilizados).
 
-* [**Proyecto C (Nombre del Proyecto)**](link-al-TERCERO-proyecto)
-    * *Descripción:* (Breve descripción de lo que hace el proyecto y qué problema resuelve).
-    * *Habilidades clave:* (Menciona las principales herramientas/conceptos utilizados).
-
-* [**Proyecto D (Nombre del Proyecto)**](link-al-CUARTO-proyecto)
-    * *Descripción:* (Breve descripción).
-    * *Habilidades clave:* (Menciona las principales herramientas/conceptos utilizados).
-
-*(Añade aquí más proyectos a medida que los vayas subiendo, siguiendo el mismo formato)*
 
 ---
 
